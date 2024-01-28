@@ -1,0 +1,315 @@
+,date,time,comp,round,day,venue,result,gf,ga,opponent,xg,xga,poss,attendance,captain,formation,referee,match report,notes,sh,sot,dist,fk,pk,pkatt,season,team
+1,2023-08-12,16:30,Eredivisie,Matchweek 1,Sat,Home,W,2.0,0.0,Utrecht,2.6,0.7,67.0,32486.0,Luuk de Jong,4-3-3,Serdar Gözübüyük,Match Report,,23.0,8.0,19.9,1.0,0,0,2024,PSV Eindhoven
+3,2023-08-19,18:45,Eredivisie,Matchweek 2,Sat,Away,W,3.0,1.0,Vitesse,2.3,2.1,65.0,14876.0,Luuk de Jong,4-2-3-1,Bas Nijhuis,Match Report,,18.0,6.0,18.6,0.0,1,1,2024,PSV Eindhoven
+6,2023-09-02,20:00,Eredivisie,Matchweek 4,Sat,Away,W,4.0,0.0,RKC Waalwijk,2.1,0.9,60.0,6609.0,Luuk de Jong,4-2-3-1,Dennis Higler,Match Report,,22.0,9.0,17.5,0.0,0,0,2024,PSV Eindhoven
+7,2023-09-16,20:00,Eredivisie,Matchweek 5,Sat,Home,W,4.0,0.0,NEC Nijmegen,5.6,0.2,60.0,34200.0,Luuk de Jong,4-2-3-1,Joey Kooij,Match Report,,26.0,9.0,15.9,0.0,2,2,2024,PSV Eindhoven
+9,2023-09-23,20:00,Eredivisie,Matchweek 6,Sat,Away,W,4.0,0.0,Almere City,3.6,0.4,60.0,4332.0,Luuk de Jong,4-3-3,Alex Bos,Match Report,,20.0,9.0,16.3,0.0,0,0,2024,PSV Eindhoven
+10,2023-09-27,18:45,Eredivisie,Matchweek 3,Wed,Home,W,3.0,0.0,Go Ahead Eag,3.3,0.8,65.0,33400.0,Luuk de Jong,4-1-4-1,Marc Nagtegaal,Match Report,,23.0,11.0,15.4,0.0,0,0,2024,PSV Eindhoven
+11,2023-09-30,18:45,Eredivisie,Matchweek 7,Sat,Home,W,3.0,1.0,Volendam,4.2,0.8,75.0,34000.0,Luuk de Jong,4-1-4-1,Allard Lindhout,Match Report,,38.0,16.0,16.7,0.0,0,0,2024,PSV Eindhoven
+13,2023-10-08,16:45,Eredivisie,Matchweek 8,Sun,Away,W,4.0,0.0,Sparta R'dam,3.5,0.4,68.0,10595.0,Luuk de Jong,4-3-3,Dennis Higler,Match Report,,29.0,10.0,18.3,1.0,0,1,2024,PSV Eindhoven
+14,2023-10-21,18:45,Eredivisie,Matchweek 9,Sat,Home,W,3.0,1.0,Fortuna Sittard,1.1,0.8,73.0,34200.0,Luuk de Jong,4-2-3-1,Rob Dieperink,Match Report,,18.0,6.0,20.0,0.0,0,0,2024,PSV Eindhoven
+16,2023-10-29,14:30,Eredivisie,Matchweek 10,Sun,Home,W,5.0,2.0,Ajax,4.4,2.5,54.0,34700.0,Luuk de Jong,4-2-3-1,Danny Makkelie,Match Report,,26.0,9.0,15.9,0.0,0,0,2024,PSV Eindhoven
+17,2023-11-04,16:30,Eredivisie,Matchweek 11,Sat,Away,W,6.0,0.0,Heracles Almelo,5.0,0.8,63.0,11867.0,Luuk de Jong,4-2-3-1,Joey Kooij,Match Report,,33.0,10.0,18.1,0.0,1,1,2024,PSV Eindhoven
+19,2023-11-12,12:15,Eredivisie,Matchweek 12,Sun,Home,W,4.0,0.0,Zwolle,1.9,0.3,66.0,34200.0,Luuk de Jong,4-2-3-1,Ingmar Oostrom,Match Report,,21.0,6.0,14.6,0.0,0,0,2024,PSV Eindhoven
+20,2023-11-25,18:45,Eredivisie,Matchweek 13,Sat,Away,W,3.0,0.0,Twente,2.1,0.3,64.0,30000.0,Luuk de Jong,4-2-3-1,Allard Lindhout,Match Report,,17.0,6.0,16.5,0.0,0,0,2024,PSV Eindhoven
+22,2023-12-03,12:15,Eredivisie,Matchweek 14,Sun,Away,W,2.0,1.0,Feyenoord,1.9,1.3,40.0,47500.0,Luuk de Jong,4-3-3,Danny Makkelie,Match Report,,15.0,7.0,16.1,0.0,0,0,2024,PSV Eindhoven
+23,2023-12-07,18:45,Eredivisie,Matchweek 15,Thu,Home,W,2.0,0.0,Heerenveen,4.6,0.6,61.0,34000.0,Luuk de Jong,4-3-3,Bas Nijhuis,Match Report,,30.0,8.0,15.6,1.0,0,0,2024,PSV Eindhoven
+25,2023-12-17,20:00,Eredivisie,Matchweek 16,Sun,Away,W,4.0,0.0,AZ Alkmaar,3.1,0.1,64.0,18874.0,Luuk de Jong,4-3-3,Dennis Higler,Match Report,,22.0,7.0,17.0,0.0,1,1,2024,PSV Eindhoven
+26,2024-01-13,21:00,Eredivisie,Matchweek 17,Sat,Home,W,3.0,1.0,Excelsior,4.1,0.9,68.0,34200.0,Luuk de Jong,4-3-3,Marc Nagtegaal,Match Report,,27.0,15.0,14.5,0.0,0,0,2024,PSV Eindhoven
+0,2023-08-13,14:30,Eredivisie,Matchweek 1,Sun,Home,D,0.0,0.0,Fortuna Sittard,1.3,1.2,61.0,47500.0,Lutsharel Geertruida,4-3-3,Rob Dieperink,Match Report,,22.0,6.0,19.0,2.0,0,0,2024,Feyenoord
+1,2023-08-20,14:30,Eredivisie,Matchweek 2,Sun,Away,D,2.0,2.0,Sparta R'dam,2.0,0.9,71.0,10600.0,Lutsharel Geertruida,4-2-3-1,Danny Makkelie,Match Report,,24.0,8.0,16.9,1.0,0,0,2024,Feyenoord
+2,2023-08-27,14:30,Eredivisie,Matchweek 3,Sun,Home,W,6.0,1.0,Almere City,4.4,1.3,63.0,47500.0,Gernot Trauner,4-2-3-1,Bas Nijhuis,Match Report,,30.0,17.0,18.7,0.0,1,1,2024,Feyenoord
+3,2023-09-03,12:15,Eredivisie,Matchweek 4,Sun,Away,W,5.0,1.0,Utrecht,4.5,0.6,55.0,20366.0,Gernot Trauner,4-2-3-1,Pol van Boekel,Match Report,,21.0,11.0,17.2,1.0,0,0,2024,Feyenoord
+4,2023-09-16,16:30,Eredivisie,Matchweek 5,Sat,Home,W,6.0,1.0,Heerenveen,3.3,0.8,61.0,47500.0,Gernot Trauner,4-2-3-1,Jeroen Manschot,Match Report,,21.0,9.0,14.9,1.0,0,0,2024,Feyenoord
+6,2023-09-27,14:00,Eredivisie,Matchweek 6,Wed,Away,W,4.0,0.0,Ajax,2.5,0.3,38.0,,Gernot Trauner,4-2-3-1,Serdar Gözübüyük,Match Report,,14.0,7.0,18.9,1.0,0,0,2024,Feyenoord
+7,2023-09-30,16:30,Eredivisie,Matchweek 7,Sat,Home,W,3.0,1.0,Go Ahead Eag,3.3,0.4,62.0,47500.0,Gernot Trauner,4-2-3-1,Jochem Kamphuis,Match Report,,29.0,9.0,15.5,1.0,0,0,2024,Feyenoord
+9,2023-10-08,12:15,Eredivisie,Matchweek 8,Sun,Away,W,2.0,0.0,Zwolle,2.2,0.8,58.0,14000.0,Lutsharel Geertruida,4-2-3-1,Sander van der Eijk,Match Report,,13.0,5.0,15.5,1.0,0,0,2024,Feyenoord
+10,2023-10-21,21:00,Eredivisie,Matchweek 9,Sat,Home,W,4.0,0.0,Vitesse,3.0,0.1,57.0,47500.0,Lutsharel Geertruida,4-3-3,Bas Nijhuis,Match Report,,23.0,8.0,15.7,1.0,0,0,2024,Feyenoord
+12,2023-10-29,12:15,Eredivisie,Matchweek 10,Sun,Away,L,1.0,2.0,Twente,1.5,1.5,59.0,30000.0,Lutsharel Geertruida,4-3-3,Dennis Higler,Match Report,,11.0,5.0,10.2,0.0,0,0,2024,Feyenoord
+13,2023-11-04,18:45,Eredivisie,Matchweek 11,Sat,Away,W,2.0,1.0,RKC Waalwijk,4.2,0.5,75.0,7168.0,Lutsharel Geertruida,4-2-3-1,Pol van Boekel,Match Report,,26.0,12.0,18.0,1.0,0,1,2024,Feyenoord
+15,2023-11-12,16:45,Eredivisie,Matchweek 12,Sun,Home,W,1.0,0.0,AZ Alkmaar,0.5,0.2,54.0,47500.0,Gernot Trauner,4-4-1-1,Danny Makkelie,Match Report,,10.0,5.0,18.3,0.0,0,0,2024,Feyenoord
+16,2023-11-25,16:30,Eredivisie,Matchweek 13,Sat,Away,W,4.0,2.0,Excelsior,4.5,1.3,61.0,4400.0,Lutsharel Geertruida,4-2-3-1,Serdar Gözübüyük,Match Report,,20.0,9.0,14.4,1.0,0,0,2024,Feyenoord
+18,2023-12-03,12:15,Eredivisie,Matchweek 14,Sun,Home,L,1.0,2.0,PSV Eindhoven,1.3,1.9,60.0,47500.0,Gernot Trauner,4-3-3,Danny Makkelie,Match Report,,14.0,3.0,16.9,0.0,0,0,2024,Feyenoord
+19,2023-12-07,21:00,Eredivisie,Matchweek 15,Thu,Home,W,3.0,1.0,Volendam,3.4,0.5,83.0,40000.0,Gernot Trauner,4-2-3-1,Martin van den Kerkhof,Match Report,,30.0,10.0,18.1,0.0,0,0,2024,Feyenoord
+21,2023-12-17,14:30,Eredivisie,Matchweek 16,Sun,Away,W,4.0,0.0,Heracles Almelo,3.0,0.1,66.0,12080.0,Gernot Trauner,4-2-3-1,Jeroen Manschot,Match Report,,26.0,12.0,16.4,1.0,0,0,2024,Feyenoord
+22,2024-01-14,16:45,Eredivisie,Matchweek 17,Sun,Home,D,2.0,2.0,NEC Nijmegen,2.4,0.5,68.0,47500.0,Gernot Trauner,4-2-3-1,Sander van der Eijk,Match Report,,25.0,5.0,17.7,2.0,0,0,2024,Feyenoord
+3,2023-08-13,16:45,Eredivisie,Matchweek 1,Sun,Away,W,4.0,1.0,Almere City,1.7,0.5,66.0,3616.0,Robin Pröpper,4-3-3,Jochem Kamphuis,Match Report,,20.0,7.0,14.3,0.0,0,0,2024,Twente
+5,2023-08-20,14:30,Eredivisie,Matchweek 2,Sun,Home,W,3.0,1.0,Zwolle,1.6,1.7,67.0,29000.0,Robin Pröpper,4-3-3,Serdar Gözübüyük,Match Report,,19.0,3.0,16.6,1.0,0,0,2024,Twente
+8,2023-09-03,14:30,Eredivisie,Matchweek 4,Sun,Away,W,2.0,0.0,Volendam,1.5,0.5,64.0,6600.0,Robin Pröpper,4-2-3-1,Richard Martens,Match Report,,12.0,4.0,16.5,1.0,0,0,2024,Twente
+9,2023-09-17,14:30,Eredivisie,Matchweek 5,Sun,Home,W,3.0,1.0,Ajax,3.1,0.9,47.0,30000.0,Robin Pröpper,4-2-3-1,Danny Makkelie,Match Report,,24.0,9.0,17.1,0.0,0,0,2024,Twente
+10,2023-09-24,16:45,Eredivisie,Matchweek 6,Sun,Away,L,0.0,1.0,RKC Waalwijk,0.5,0.4,53.0,5512.0,Robin Pröpper,4-3-3,Joey Kooij,Match Report,,7.0,2.0,17.2,1.0,0,0,2024,Twente
+11,2023-09-27,20:00,Eredivisie,Matchweek 3,Wed,Home,W,1.0,0.0,Vitesse,1.8,1.2,65.0,29000.0,Robin Pröpper,4-2-3-1,Jannick van der Laan,Match Report,,18.0,5.0,16.9,1.0,0,0,2024,Twente
+12,2023-09-30,21:00,Eredivisie,Matchweek 7,Sat,Home,W,1.0,0.0,Heerenveen,0.7,0.4,65.0,29500.0,Robin Pröpper,4-2-3-1,Rob Dieperink,Match Report,,11.0,3.0,18.0,0.0,0,0,2024,Twente
+13,2023-10-08,14:30,Eredivisie,Matchweek 8,Sun,Away,W,3.0,0.0,Fortuna Sittard,1.9,0.1,58.0,11048.0,Robin Pröpper,4-2-3-1,Martin van den Kerkhof,Match Report,,15.0,6.0,16.4,0.0,0,0,2024,Twente
+14,2023-10-22,14:30,Eredivisie,Matchweek 9,Sun,Away,D,2.0,2.0,Heracles Almelo,2.2,1.6,55.0,12080.0,Robin Pröpper,4-2-3-1,Pol van Boekel,Match Report,,17.0,5.0,18.8,1.0,0,0,2024,Twente
+15,2023-10-29,12:15,Eredivisie,Matchweek 10,Sun,Home,W,2.0,1.0,Feyenoord,1.5,1.5,41.0,30000.0,Robin Pröpper,4-2-3-1,Dennis Higler,Match Report,,12.0,5.0,17.3,1.0,0,0,2024,Twente
+16,2023-11-05,12:15,Eredivisie,Matchweek 11,Sun,Away,D,1.0,1.0,Utrecht,1.2,0.8,55.0,17491.0,Robin Pröpper,4-2-3-1,Serdar Gözübüyük,Match Report,,9.0,0.0,23.9,0.0,1,1,2024,Twente
+17,2023-11-11,20:00,Eredivisie,Matchweek 12,Sat,Home,D,3.0,3.0,NEC Nijmegen,3.2,1.6,67.0,30000.0,Robin Pröpper,4-3-3,Joey Kooij,Match Report,,35.0,7.0,16.6,0.0,0,0,2024,Twente
+18,2023-11-25,18:45,Eredivisie,Matchweek 13,Sat,Home,L,0.0,3.0,PSV Eindhoven,0.3,2.1,36.0,30000.0,Robin Pröpper,4-2-3-1,Allard Lindhout,Match Report,,12.0,1.0,24.7,1.0,0,0,2024,Twente
+19,2023-12-03,14:30,Eredivisie,Matchweek 14,Sun,Away,W,3.0,1.0,Go Ahead Eag,2.5,1.3,40.0,9820.0,Robin Pröpper,4-3-3,Sander van der Eijk,Match Report,,13.0,5.0,14.7,1.0,0,0,2024,Twente
+20,2023-12-08,20:00,Eredivisie,Matchweek 15,Fri,Home,W,4.0,2.0,Excelsior,3.4,0.4,81.0,29000.0,Robin Pröpper,4-3-3,Ingmar Oostrom,Match Report,,30.0,7.0,21.0,1.0,1,1,2024,Twente
+21,2023-12-17,14:30,Eredivisie,Matchweek 16,Sun,Away,D,2.0,2.0,Sparta R'dam,2.8,2.7,62.0,10289.0,Robin Pröpper,4-2-3-1,Martin van den Kerkhof,Match Report,,39.0,9.0,16.6,1.0,0,0,2024,Twente
+22,2024-01-13,18:45,Eredivisie,Matchweek 17,Sat,Home,W,2.0,1.0,AZ Alkmaar,1.6,1.3,61.0,29500.0,Robin Pröpper,4-2-3-1,Serdar Gözübüyük,Match Report,,19.0,8.0,18.2,0.0,0,0,2024,Twente
+23,2024-01-20,16:30,Eredivisie,Matchweek 18,Sat,Away,L,0.0,1.0,NEC Nijmegen,0.5,1.4,52.0,12500.0,Michal Sadílek,4-2-3-1,Martin van den Kerkhof,Match Report,,11.0,2.0,19.4,0.0,0,0,2024,Twente
+1,2023-08-13,14:30,Eredivisie,Matchweek 1,Sun,Home,W,5,1,Go Ahead Eag,3.6,0.6,52.0,16782.0,Jordy Clasie,4-2-3-1,Danny Makkelie,Match Report,,12.0,7.0,15.0,2.0,1,1,2024,AZ Alkmaar
+3,2023-08-20,16:45,Eredivisie,Matchweek 2,Sun,Away,W,3,1,RKC Waalwijk,1.5,2.0,55.0,6722.0,Pantelis Hatzidiakos,4-2-3-1,Alex Bos,Match Report,,15.0,7.0,15.9,0.0,0,0,2024,AZ Alkmaar
+6,2023-09-03,16:45,Eredivisie,Matchweek 4,Sun,Away,W,2,0,Vitesse,2.3,0.2,50.0,15734.0,Jordy Clasie,4-2-3-1,Jeroen Manschot,Match Report,,16.0,7.0,15.9,2.0,0,0,2024,AZ Alkmaar
+7,2023-09-17,16:45,Eredivisie,Matchweek 5,Sun,Home,W,2,0,Sparta R'dam,1.5,0.7,52.0,18389.0,Jordy Clasie,4-2-3-1,Pol van Boekel,Match Report,,18.0,7.0,16.4,0.0,0,0,2024,AZ Alkmaar
+9,2023-09-24,16:45,Eredivisie,Matchweek 6,Sun,Away,W,3,0,Zwolle,1.0,0.8,54.0,14000.0,Jordy Clasie,4-2-3-1,Edwin van de Graaf,Match Report,,15.0,5.0,19.1,1.0,0,0,2024,AZ Alkmaar
+10,2023-09-28,20:00,Eredivisie,Matchweek 3,Thu,Home,D,1,1,Heracles Almelo,2.7,0.8,61.0,16276.0,Jordy Clasie,4-2-3-1,Danny Makkelie,Match Report,,21.0,6.0,15.9,0.0,0,0,2024,AZ Alkmaar
+11,2023-10-01,16:45,Eredivisie,Matchweek 7,Sun,Home,W,4,0,Fortuna Sittard,2.0,0.6,56.0,19478.0,Jordy Clasie,4-2-3-1,Serdar Gözübüyük,Match Report,,12.0,7.0,15.9,1.0,0,0,2024,AZ Alkmaar
+13,2023-10-08,14:30,Eredivisie,Matchweek 8,Sun,Away,W,2,1,Ajax,2.1,0.2,47.0,54028.0,Jordy Clasie,4-2-3-1,Allard Lindhout,Match Report,,12.0,4.0,18.7,0.0,0,0,2024,AZ Alkmaar
+14,2023-10-21,21:00,Eredivisie,Matchweek 9,Sat,Home,W,3,0,Heerenveen,1.4,0.4,59.0,17421.0,Jordy Clasie,4-2-3-1,Jochem Kamphuis,Match Report,,11.0,3.0,14.6,2.0,0,0,2024,AZ Alkmaar
+16,2023-11-04,18:45,Eredivisie,Matchweek 11,Sat,Away,D,1,1,Excelsior,0.7,2.0,51.0,4400.0,Bruno Martins Indi,4-2-3-1,Laurens Gerrets,Match Report,,11.0,4.0,19.5,0.0,0,0,2024,AZ Alkmaar
+18,2023-11-12,16:45,Eredivisie,Matchweek 12,Sun,Away,L,0,1,Feyenoord,0.2,0.5,46.0,47500.0,Bruno Martins Indi,4-2-3-1,Danny Makkelie,Match Report,,7.0,1.0,31.5,1.0,0,0,2024,AZ Alkmaar
+19,2023-11-26,14:30,Eredivisie,Matchweek 13,Sun,Home,W,3,0,Volendam,3.6,0.4,61.0,18261.0,Bruno Martins Indi,4-2-3-1,Bas Nijhuis,Match Report,,19.0,8.0,15.8,1.0,0,0,2024,AZ Alkmaar
+21,2023-12-03,16:45,Eredivisie,Matchweek 14,Sun,Away,D,1,1,Utrecht,1.2,2.1,53.0,18267.0,Bruno Martins Indi,4-2-3-1,Erwin Blank,Match Report,,20.0,9.0,18.3,0.0,0,0,2024,AZ Alkmaar
+22,2023-12-06,19:00,Eredivisie,Matchweek 10,Wed,Home,L,1,2,NEC Nijmegen,2.6,0.6,74.0,18773.0,Jordy Clasie,4-2-3-1,Jeroen Manschot,Match Report,,27.0,4.0,14.1,0.0,0,0,2024,AZ Alkmaar
+23,2023-12-09,21:00,Eredivisie,Matchweek 15,Sat,Home,W,4,1,Almere City,1.7,0.6,61.0,18429.0,Jordy Clasie,4-2-3-1,Sander van der Eijk,Match Report,,13.0,7.0,12.5,0.0,0,0,2024,AZ Alkmaar
+25,2023-12-17,20:00,Eredivisie,Matchweek 16,Sun,Home,L,0,4,PSV Eindhoven,0.1,3.1,36.0,18874.0,Bruno Martins Indi,4-2-3-1,Dennis Higler,Match Report,,1.0,0.0,12.8,0.0,0,0,2024,AZ Alkmaar
+26,2024-01-13,18:45,Eredivisie,Matchweek 17,Sat,Away,L,1,2,Twente,1.3,1.6,39.0,29500.0,Bruno Martins Indi,4-2-3-1,Serdar Gözübüyük,Match Report,,5.0,2.0,16.3,0.0,0,0,2024,AZ Alkmaar
+27,2024-01-20,20:00,Eredivisie,Matchweek 18,Sat,Home,D,2,2,Zwolle,2.9,1.8,63.0,17782.0,Bruno Martins Indi,4-3-3,Allard Lindhout,Match Report,,18.0,7.0,14.4,0.0,1,1,2024,AZ Alkmaar
+0,2023-08-12,20:00,Eredivisie,Matchweek 1,Sat,Home,W,4.0,1.0,Heracles Almelo,3.4,0.9,69.0,54029.0,Steven Bergwijn,4-3-3,Jeroen Manschot,Match Report,,30.0,12.0,17.5,1.0,1,1,2024,Ajax
+1,2023-08-19,16:30,Eredivisie,Matchweek 2,Sat,Away,D,2.0,2.0,Excelsior,2.8,1.6,68.0,4400.0,Steven Bergwijn,4-2-3-1,Dennis Higler,Match Report,,15.0,7.0,14.9,0.0,0,0,2024,Ajax
+4,2023-09-03,14:30,Eredivisie,Matchweek 4,Sun,Away,D,0.0,0.0,Fortuna Sittard,0.6,1.2,65.0,12138.0,Josip Šutalo,4-2-3-1,Sander van der Eijk,Match Report,,12.0,4.0,21.5,0.0,0,0,2024,Ajax
+5,2023-09-17,14:30,Eredivisie,Matchweek 5,Sun,Away,L,1.0,3.0,Twente,0.9,3.1,53.0,30000.0,Steven Bergwijn,4-2-3-1,Danny Makkelie,Match Report,,10.0,2.0,15.8,1.0,0,0,2024,Ajax
+7,2023-09-27,14:00,Eredivisie,Matchweek 6,Wed,Home,L,0.0,4.0,Feyenoord,0.3,2.5,62.0,,Steven Berghuis,4-2-3-1,Serdar Gözübüyük,Match Report,,9.0,2.0,22.9,0.0,0,0,2024,Ajax
+9,2023-10-08,14:30,Eredivisie,Matchweek 8,Sun,Home,L,1.0,2.0,AZ Alkmaar,0.2,2.1,53.0,54028.0,Steven Bergwijn,4-3-3,Allard Lindhout,Match Report,,6.0,1.0,20.5,0.0,0,0,2024,Ajax
+10,2023-10-22,12:15,Eredivisie,Matchweek 9,Sun,Away,L,3.0,4.0,Utrecht,1.5,2.0,59.0,22198.0,Steven Bergwijn,4-3-3,Dennis Higler,Match Report,,10.0,5.0,18.2,0.0,1,1,2024,Ajax
+12,2023-10-29,14:30,Eredivisie,Matchweek 10,Sun,Away,L,2.0,5.0,PSV Eindhoven,2.5,4.4,46.0,34700.0,Steven Bergwijn,4-2-3-1,Danny Makkelie,Match Report,,16.0,7.0,18.4,0.0,0,0,2024,Ajax
+13,2023-11-02,20:00,Eredivisie,Matchweek 3,Thu,Home,W,2.0,0.0,Volendam,3.4,0.9,67.0,54177.0,Steven Bergwijn,4-2-3-1,Martin van den Kerkhof,Match Report,,30.0,10.0,14.2,0.0,0,0,2024,Ajax
+14,2023-11-05,16:45,Eredivisie,Matchweek 11,Sun,Home,W,4.0,1.0,Heerenveen,2.5,1.4,57.0,54288.0,Steven Bergwijn,4-2-3-1,Sander van der Eijk,Match Report,,14.0,8.0,13.1,0.0,0,0,2024,Ajax
+16,2023-11-12,14:30,Eredivisie,Matchweek 12,Sun,Away,D,2.0,2.0,Almere City,2.5,2.6,63.0,4222.0,Steven Bergwijn,4-2-3-1,Bas Nijhuis,Match Report,,22.0,13.0,16.4,0.0,0,0,2024,Ajax
+17,2023-11-25,21:00,Eredivisie,Matchweek 13,Sat,Home,W,5.0,0.0,Vitesse,3.0,0.5,63.0,48250.0,Steven Bergwijn,4-2-3-1,Dennis Higler,Match Report,,19.0,12.0,16.6,0.0,0,0,2024,Ajax
+19,2023-12-03,14:30,Eredivisie,Matchweek 14,Sun,Away,W,2.0,1.0,NEC Nijmegen,3.5,0.7,56.0,12500.0,Steven Bergwijn,4-2-3-1,Marc Nagtegaal,Match Report,,22.0,9.0,15.2,0.0,0,0,2024,Ajax
+20,2023-12-06,20:00,Eredivisie,Matchweek 7,Wed,Away,W,3.0,2.0,RKC Waalwijk,1.4,0.9,60.0,7159.0,Steven Bergwijn,4-3-3,Pol van Boekel,Match Report,,15.0,5.0,21.4,1.0,1,1,2024,Ajax
+21,2023-12-09,18:45,Eredivisie,Matchweek 15,Sat,Home,W,2.0,1.0,Sparta R'dam,3.3,1.1,55.0,54526.0,Steven Bergwijn,4-3-3,Danny Makkelie,Match Report,,22.0,5.0,14.2,0.0,1,1,2024,Ajax
+23,2023-12-17,16:45,Eredivisie,Matchweek 16,Sun,Home,D,2.0,2.0,Zwolle,2.4,1.8,64.0,53853.0,Steven Berghuis,4-2-3-1,Joey Kooij,Match Report,,16.0,5.0,17.1,1.0,0,0,2024,Ajax
+24,2024-01-14,14:30,Eredivisie,Matchweek 17,Sun,Away,W,3.0,2.0,Go Ahead Eag,2.0,2.9,61.0,9997.0,Steven Bergwijn,4-3-3,Pol van Boekel,Match Report,,17.0,6.0,16.1,0.0,0,0,2024,Ajax
+0,2023-08-13,12:15,Eredivisie,Matchweek 1,Sun,Home,L,3.0,4.0,Excelsior,0.8,1.3,50.0,12207.0,Lasse Schöne,4-2-3-1,Allard Lindhout,Match Report,,8.0,6.0,18.3,0.0,0,0,2024,NEC Nijmegen
+1,2023-08-18,20:00,Eredivisie,Matchweek 2,Fri,Away,L,1.0,2.0,Heracles Almelo,1.1,1.1,54.0,12080.0,Lasse Schöne,4-2-3-1,Erwin Blank,Match Report,,17.0,4.0,19.0,0.0,0,0,2024,NEC Nijmegen
+2,2023-08-26,18:45,Eredivisie,Matchweek 3,Sat,Home,W,3.0,0.0,RKC Waalwijk,1.9,1.3,41.0,12319.0,Bram Nuytinck,4-2-3-1,Jochem Kamphuis,Match Report,,13.0,9.0,13.4,0.0,0,0,2024,NEC Nijmegen
+3,2023-09-01,20:00,Eredivisie,Matchweek 4,Fri,Away,D,1.0,1.0,Sparta R'dam,0.5,1.9,41.0,10111.0,Bram Nuytinck,4-2-3-1,Serdar Gözübüyük,Match Report,,13.0,6.0,23.8,1.0,0,0,2024,NEC Nijmegen
+4,2023-09-16,20:00,Eredivisie,Matchweek 5,Sat,Away,L,0.0,4.0,PSV Eindhoven,0.2,5.6,40.0,34200.0,Lasse Schöne,4-2-3-1,Joey Kooij,Match Report,,3.0,0.0,14.2,0.0,0,0,2024,NEC Nijmegen
+5,2023-09-23,18:45,Eredivisie,Matchweek 6,Sat,Home,W,3.0,0.0,Utrecht,2.2,1.5,43.0,12500.0,Lasse Schöne,4-2-3-1,Dennis Higler,Match Report,,8.0,4.0,13.5,0.0,1,1,2024,NEC Nijmegen
+6,2023-10-01,12:15,Eredivisie,Matchweek 7,Sun,Home,L,1.0,3.0,Vitesse,1.1,1.2,63.0,12500.0,Lasse Schöne,4-2-3-1,Sander van der Eijk,Match Report,,9.0,5.0,11.0,0.0,0,0,2024,NEC Nijmegen
+7,2023-10-07,16:30,Eredivisie,Matchweek 8,Sat,Away,D,1.0,1.0,Heerenveen,1.0,2.1,51.0,20600.0,Lasse Schöne,4-2-3-1,Marc Nagtegaal,Match Report,,9.0,3.0,15.0,0.0,0,0,2024,NEC Nijmegen
+8,2023-10-21,20:00,Eredivisie,Matchweek 9,Sat,Home,D,1.0,1.0,Almere City,1.2,0.7,56.0,12500.0,Lasse Schöne,4-2-3-1,Danny Makkelie,Match Report,,12.0,4.0,17.1,1.0,0,0,2024,NEC Nijmegen
+9,2023-11-05,14:30,Eredivisie,Matchweek 11,Sun,Home,D,3.0,3.0,Volendam,2.0,1.6,39.0,12500.0,Bram Nuytinck,4-2-3-1,Jochem Kamphuis,Match Report,,12.0,5.0,18.0,0.0,1,1,2024,NEC Nijmegen
+10,2023-11-11,20:00,Eredivisie,Matchweek 12,Sat,Away,D,3.0,3.0,Twente,1.6,3.2,33.0,30000.0,Lasse Schöne,4-2-3-1,Joey Kooij,Match Report,,14.0,8.0,19.7,0.0,0,0,2024,NEC Nijmegen
+11,2023-11-26,14:30,Eredivisie,Matchweek 13,Sun,Home,D,1.0,1.0,Go Ahead Eag,1.1,0.9,57.0,12500.0,Lasse Schöne,4-2-3-1,Robin Hensgens,Match Report,,15.0,5.0,15.8,1.0,0,0,2024,NEC Nijmegen
+12,2023-12-03,14:30,Eredivisie,Matchweek 14,Sun,Home,L,1.0,2.0,Ajax,0.7,3.5,44.0,12500.0,Lasse Schöne,4-2-3-1,Marc Nagtegaal,Match Report,,7.0,3.0,16.5,0.0,0,0,2024,NEC Nijmegen
+13,2023-12-06,19:00,Eredivisie,Matchweek 10,Wed,Away,W,2.0,1.0,AZ Alkmaar,0.6,2.6,26.0,18773.0,Dirk Proper,4-2-3-1,Jeroen Manschot,Match Report,,4.0,2.0,17.0,0.0,0,0,2024,NEC Nijmegen
+14,2023-12-09,20:00,Eredivisie,Matchweek 15,Sat,Away,W,3.0,1.0,Zwolle,1.2,1.2,46.0,13324.0,Bram Nuytinck,4-2-3-1,Pol van Boekel,Match Report,,17.0,9.0,18.0,1.0,0,0,2024,NEC Nijmegen
+15,2023-12-15,20:00,Eredivisie,Matchweek 16,Fri,Home,W,4.0,1.0,Fortuna Sittard,2.1,0.4,57.0,12500.0,Bram Nuytinck,4-2-3-1,Edwin van de Graaf,Match Report,,16.0,7.0,16.3,0.0,0,0,2024,NEC Nijmegen
+16,2024-01-14,16:45,Eredivisie,Matchweek 17,Sun,Away,D,2.0,2.0,Feyenoord,0.5,2.4,32.0,47500.0,Bram Nuytinck,4-1-4-1,Sander van der Eijk,Match Report,,2.0,2.0,16.7,0.0,0,0,2024,NEC Nijmegen
+17,2024-01-20,16:30,Eredivisie,Matchweek 18,Sat,Home,W,1.0,0.0,Twente,1.4,0.5,48.0,12500.0,Bram Nuytinck,4-2-3-1,Martin van den Kerkhof,Match Report,,23.0,8.0,18.9,1.0,0,0,2024,NEC Nijmegen
+0,2023-08-12,21:00,Eredivisie,Matchweek 1,Sat,Away,W,2.0,1.0,Zwolle,1.2,0.9,47.0,12500.0,Bart Vriends,4-2-3-1,Joey Kooij,Match Report,,8.0,4.0,17.7,0.0,0,0,2024,Sparta Rotterdam
+1,2023-08-20,14:30,Eredivisie,Matchweek 2,Sun,Home,D,2.0,2.0,Feyenoord,0.9,2.0,29.0,10600.0,Bart Vriends,4-2-3-1,Danny Makkelie,Match Report,,10.0,5.0,18.0,0.0,0,0,2024,Sparta Rotterdam
+2,2023-08-27,16:45,Eredivisie,Matchweek 3,Sun,Away,W,3.0,1.0,Heerenveen,2.1,2.2,45.0,19700.0,Bart Vriends,4-2-3-1,Allard Lindhout,Match Report,,16.0,7.0,19.2,0.0,0,0,2024,Sparta Rotterdam
+3,2023-09-01,20:00,Eredivisie,Matchweek 4,Fri,Home,D,1.0,1.0,NEC Nijmegen,1.9,0.5,59.0,10111.0,Bart Vriends,4-2-3-1,Serdar Gözübüyük,Match Report,,14.0,4.0,17.4,0.0,1,1,2024,Sparta Rotterdam
+4,2023-09-17,16:45,Eredivisie,Matchweek 5,Sun,Away,L,0.0,2.0,AZ Alkmaar,0.7,1.5,48.0,18389.0,Bart Vriends,4-2-3-1,Pol van Boekel,Match Report,,10.0,3.0,18.3,0.0,0,0,2024,Sparta Rotterdam
+5,2023-09-24,12:15,Eredivisie,Matchweek 6,Sun,Home,W,1.0,0.0,Vitesse,1.5,0.3,49.0,10320.0,Jonathan de Guzmán,4-2-3-1,Richard Martens,Match Report,,17.0,5.0,17.1,0.0,0,0,2024,Sparta Rotterdam
+6,2023-10-01,14:30,Eredivisie,Matchweek 7,Sun,Away,L,1.0,2.0,Excelsior,0.5,1.5,45.0,4400.0,Bart Vriends,4-2-3-1,Jeroen Manschot,Match Report,,9.0,5.0,22.1,0.0,0,0,2024,Sparta Rotterdam
+7,2023-10-08,16:45,Eredivisie,Matchweek 8,Sun,Home,L,0.0,4.0,PSV Eindhoven,0.4,3.5,32.0,10595.0,Bart Vriends,4-2-3-1,Dennis Higler,Match Report,,8.0,3.0,16.1,0.0,0,0,2024,Sparta Rotterdam
+8,2023-10-22,16:45,Eredivisie,Matchweek 9,Sun,Away,D,0.0,0.0,Go Ahead Eag,0.7,0.8,56.0,9837.0,Bart Vriends,4-2-3-1,Ingmar Oostrom,Match Report,,15.0,6.0,21.2,0.0,0,0,2024,Sparta Rotterdam
+9,2023-10-28,20:00,Eredivisie,Matchweek 10,Sat,Home,W,2.0,0.0,RKC Waalwijk,1.8,0.8,52.0,10341.0,Bart Vriends,4-2-3-1,Sander van der Eijk,Match Report,,14.0,3.0,17.0,1.0,1,1,2024,Sparta Rotterdam
+10,2023-11-05,16:45,Eredivisie,Matchweek 11,Sun,Home,L,1.0,2.0,Almere City,1.4,1.3,62.0,10132.0,Bart Vriends,4-2-3-1,Allard Lindhout,Match Report,,24.0,7.0,19.3,2.0,0,0,2024,Sparta Rotterdam
+11,2023-11-12,14:30,Eredivisie,Matchweek 12,Sun,Away,W,4.0,1.0,Volendam,2.0,0.9,39.0,6784.0,Bart Vriends,4-2-3-1,Richard Martens,Match Report,,16.0,7.0,17.5,0.0,0,0,2024,Sparta Rotterdam
+12,2023-11-26,16:45,Eredivisie,Matchweek 13,Sun,Home,L,1.0,2.0,Utrecht,2.4,1.2,60.0,10030.0,Bart Vriends,4-3-3,Joey Kooij,Match Report,,19.0,6.0,16.6,0.0,0,0,2024,Sparta Rotterdam
+13,2023-12-02,21:00,Eredivisie,Matchweek 14,Sat,Away,W,1.0,0.0,Heracles Almelo,1.0,1.1,48.0,11645.0,Bart Vriends,4-3-3,Edwin van de Graaf,Match Report,,10.0,4.0,19.7,2.0,0,0,2024,Sparta Rotterdam
+14,2023-12-09,18:45,Eredivisie,Matchweek 15,Sat,Away,L,1.0,2.0,Ajax,1.1,3.3,45.0,54526.0,Bart Vriends,4-3-3,Danny Makkelie,Match Report,,10.0,2.0,14.8,0.0,0,0,2024,Sparta Rotterdam
+15,2023-12-17,14:30,Eredivisie,Matchweek 16,Sun,Home,D,2.0,2.0,Twente,2.7,2.8,38.0,10289.0,Jonathan de Guzmán,4-3-3,Martin van den Kerkhof,Match Report,,10.0,6.0,20.3,0.0,2,2,2024,Sparta Rotterdam
+16,2024-01-13,16:30,Eredivisie,Matchweek 17,Sat,Away,W,2.0,0.0,Fortuna Sittard,1.4,3.4,52.0,9800.0,Jonathan de Guzmán,4-3-3,Erwin Blank,Match Report,,10.0,6.0,18.0,0.0,0,0,2024,Sparta Rotterdam
+0,2023-08-13,14:30,Eredivisie,Matchweek 1,Sun,Away,L,1.0,5.0,AZ Alkmaar,0.6,3.6,48.0,16782.0,Bas Kuipers,4-2-3-1,Danny Makkelie,Match Report,,9.0,4.0,16.3,2.0,0,0,2024,Go Ahead Eagles
+1,2023-08-19,21:00,Eredivisie,Matchweek 2,Sat,Home,W,4.0,1.0,Volendam,0.6,1.4,42.0,9376.0,Bas Kuipers,4-2-3-1,Edwin van de Graaf,Match Report,,9.0,6.0,15.5,0.0,0,0,2024,Go Ahead Eagles
+2,2023-09-02,18:45,Eredivisie,Matchweek 4,Sat,Home,W,3.0,2.0,Heerenveen,3.2,1.3,48.0,9723.0,Bas Kuipers,4-2-3-1,Jannick van der Laan,Match Report,,20.0,5.0,16.8,0.0,1,1,2024,Go Ahead Eagles
+3,2023-09-17,12:15,Eredivisie,Matchweek 5,Sun,Away,D,1.0,1.0,Zwolle,1.0,2.7,38.0,13750.0,Bas Kuipers,4-2-3-1,Rob Dieperink,Match Report,,9.0,2.0,15.5,0.0,0,0,2024,Go Ahead Eagles
+4,2023-09-22,20:00,Eredivisie,Matchweek 6,Fri,Home,W,3.0,0.0,Fortuna Sittard,2.3,1.2,49.0,9803.0,Bas Kuipers,4-2-3-1,Bas Nijhuis,Match Report,,20.0,9.0,16.9,1.0,0,0,2024,Go Ahead Eagles
+5,2023-09-27,18:45,Eredivisie,Matchweek 3,Wed,Away,L,0.0,3.0,PSV Eindhoven,0.8,3.3,35.0,33400.0,Bas Kuipers,4-2-3-1,Marc Nagtegaal,Match Report,,9.0,2.0,17.2,0.0,0,0,2024,Go Ahead Eagles
+6,2023-09-30,16:30,Eredivisie,Matchweek 7,Sat,Away,L,1.0,3.0,Feyenoord,0.4,3.3,38.0,47500.0,Bas Kuipers,4-2-3-1,Jochem Kamphuis,Match Report,,7.0,3.0,20.1,0.0,0,0,2024,Go Ahead Eagles
+7,2023-10-07,20:00,Eredivisie,Matchweek 8,Sat,Home,W,4.0,0.0,Heracles Almelo,1.7,1.8,38.0,9833.0,Bas Kuipers,4-2-3-1,Alex Bos,Match Report,,22.0,13.0,16.7,0.0,0,0,2024,Go Ahead Eagles
+8,2023-10-22,16:45,Eredivisie,Matchweek 9,Sun,Home,D,0.0,0.0,Sparta R'dam,0.8,0.7,44.0,9837.0,Bas Kuipers,4-4-2,Ingmar Oostrom,Match Report,,16.0,6.0,18.9,0.0,0,0,2024,Go Ahead Eagles
+9,2023-10-28,20:00,Eredivisie,Matchweek 10,Sat,Away,D,0.0,0.0,Almere City,0.6,1.1,49.0,4222.0,Bas Kuipers,4-2-3-1,Serdar Gözübüyük,Match Report,,9.0,3.0,19.1,1.0,0,0,2024,Go Ahead Eagles
+10,2023-11-04,21:00,Eredivisie,Matchweek 11,Sat,Home,W,5.0,1.0,Vitesse,3.2,0.6,40.0,9848.0,Bas Kuipers,4-2-3-1,Erwin Blank,Match Report,,22.0,14.0,17.1,0.0,0,0,2024,Go Ahead Eagles
+11,2023-11-11,18:45,Eredivisie,Matchweek 12,Sat,Away,W,1.0,0.0,RKC Waalwijk,0.8,1.8,35.0,6157.0,Bas Kuipers,4-2-3-1,Jeroen Manschot,Match Report,,9.0,2.0,15.2,1.0,0,0,2024,Go Ahead Eagles
+12,2023-11-26,14:30,Eredivisie,Matchweek 13,Sun,Away,D,1.0,1.0,NEC Nijmegen,0.9,1.1,43.0,12500.0,Bas Kuipers,4-2-3-1,Robin Hensgens,Match Report,,12.0,4.0,21.6,1.0,0,0,2024,Go Ahead Eagles
+13,2023-12-03,14:30,Eredivisie,Matchweek 14,Sun,Home,L,1.0,3.0,Twente,1.3,2.5,60.0,9820.0,Bas Kuipers,4-3-3,Sander van der Eijk,Match Report,,15.0,9.0,20.0,0.0,0,0,2024,Go Ahead Eagles
+14,2023-12-10,12:15,Eredivisie,Matchweek 15,Sun,Home,L,0.0,2.0,Utrecht,1.2,0.8,61.0,9873.0,Bas Kuipers,4-2-3-1,Allard Lindhout,Match Report,,22.0,7.0,17.9,0.0,0,0,2024,Go Ahead Eagles
+15,2023-12-16,18:45,Eredivisie,Matchweek 16,Sat,Away,D,1.0,1.0,Excelsior,0.9,1.4,53.0,4400.0,Bas Kuipers,4-2-3-1,Alex Bos,Match Report,,11.0,5.0,21.2,0.0,0,0,2024,Go Ahead Eagles
+16,2024-01-14,14:30,Eredivisie,Matchweek 17,Sun,Home,L,2.0,3.0,Ajax,2.9,2.0,39.0,9997.0,Bas Kuipers,4-2-3-1,Pol van Boekel,Match Report,,24.0,12.0,16.1,1.0,0,0,2024,Go Ahead Eagles
+0,2023-08-13,12:15,Eredivisie,Matchweek 1,Sun,Away,W,4.0,3.0,NEC Nijmegen,1.3,0.8,50.0,12207.0,Stijn van Gassel,4-3-3,Allard Lindhout,Match Report,,6.0,6.0,11.8,0.0,0,0,2024,Excelsior
+1,2023-08-19,16:30,Eredivisie,Matchweek 2,Sat,Home,D,2.0,2.0,Ajax,1.6,2.8,32.0,4400.0,Stijn van Gassel,4-3-3,Dennis Higler,Match Report,,12.0,2.0,13.4,0.0,0,0,2024,Excelsior
+2,2023-08-26,21:00,Eredivisie,Matchweek 3,Sat,Home,D,2.0,2.0,Fortuna Sittard,1.7,1.2,45.0,4139.0,Stijn van Gassel,4-3-3,Robin Hensgens,Match Report,,9.0,5.0,12.7,1.0,0,0,2024,Excelsior
+3,2023-09-02,21:00,Eredivisie,Matchweek 4,Sat,Away,L,1.0,3.0,Heracles Almelo,0.5,1.5,37.0,11185.0,Stijn van Gassel,4-3-3,Joey Kooij,Match Report,,9.0,3.0,21.5,0.0,0,0,2024,Excelsior
+4,2023-09-17,14:30,Eredivisie,Matchweek 5,Sun,Home,D,0.0,0.0,Almere City,0.8,1.7,49.0,4400.0,Stijn van Gassel,4-3-3,Martin van den Kerkhof,Match Report,,14.0,2.0,15.8,0.0,0,0,2024,Excelsior
+5,2023-09-23,21:00,Eredivisie,Matchweek 6,Sat,Away,W,3.0,0.0,Heerenveen,1.0,0.8,41.0,19630.0,Stijn van Gassel,4-3-3,Erwin Blank,Match Report,,7.0,3.0,17.4,0.0,0,0,2024,Excelsior
+6,2023-10-01,14:30,Eredivisie,Matchweek 7,Sun,Home,W,2.0,1.0,Sparta R'dam,1.5,0.5,55.0,4400.0,Stijn van Gassel,4-3-3,Jeroen Manschot,Match Report,,15.0,7.0,16.3,0.0,0,0,2024,Excelsior
+7,2023-10-07,21:00,Eredivisie,Matchweek 8,Sat,Away,D,0.0,0.0,Vitesse,1.0,1.4,58.0,13887.0,Stijn van Gassel,4-3-3,Joey Kooij,Match Report,,11.0,5.0,17.2,1.0,0,0,2024,Excelsior
+8,2023-10-22,14:30,Eredivisie,Matchweek 9,Sun,Home,L,2.0,4.0,Zwolle,2.1,1.2,54.0,4400.0,Stijn van Gassel,4-3-3,Jannick van der Laan,Match Report,,18.0,5.0,16.8,2.0,0,0,2024,Excelsior
+9,2023-10-29,14:30,Eredivisie,Matchweek 10,Sun,Away,L,1.0,3.0,Volendam,1.6,4.0,50.0,6500.0,Redouan El Yaakoubi,4-3-3,Alex Bos,Match Report,,10.0,2.0,14.0,0.0,0,0,2024,Excelsior
+10,2023-11-04,18:45,Eredivisie,Matchweek 11,Sat,Home,D,1.0,1.0,AZ Alkmaar,2.0,0.7,49.0,4400.0,Stijn van Gassel,4-3-3,Laurens Gerrets,Match Report,,15.0,5.0,13.8,0.0,0,0,2024,Excelsior
+11,2023-11-12,20:00,Eredivisie,Matchweek 12,Sun,Away,D,2.0,2.0,Utrecht,1.9,0.6,41.0,20235.0,Stijn van Gassel,4-3-3,Marc Nagtegaal,Match Report,,12.0,6.0,15.5,0.0,0,0,2024,Excelsior
+12,2023-11-25,16:30,Eredivisie,Matchweek 13,Sat,Home,L,2.0,4.0,Feyenoord,1.3,4.5,39.0,4400.0,Stijn van Gassel,4-3-3,Serdar Gözübüyük,Match Report,,13.0,3.0,20.0,0.0,0,0,2024,Excelsior
+13,2023-12-02,20:00,Eredivisie,Matchweek 14,Sat,Away,D,2.0,2.0,RKC Waalwijk,0.9,1.8,49.0,5869.0,Stijn van Gassel,4-3-3,Bas Nijhuis,Match Report,,13.0,6.0,17.7,1.0,0,0,2024,Excelsior
+14,2023-12-08,20:00,Eredivisie,Matchweek 15,Fri,Away,L,2.0,4.0,Twente,0.4,3.4,19.0,29000.0,Stijn van Gassel,5-4-1,Ingmar Oostrom,Match Report,,5.0,4.0,14.6,0.0,0,0,2024,Excelsior
+15,2023-12-16,18:45,Eredivisie,Matchweek 16,Sat,Home,D,1.0,1.0,Go Ahead Eag,1.4,0.9,47.0,4400.0,Stijn van Gassel,5-4-1,Alex Bos,Match Report,,11.0,3.0,15.6,0.0,0,0,2024,Excelsior
+16,2024-01-13,21:00,Eredivisie,Matchweek 17,Sat,Away,L,1.0,3.0,PSV Eindhoven,0.9,4.1,32.0,34200.0,Stijn van Gassel,4-4-2,Marc Nagtegaal,Match Report,,8.0,3.0,20.5,0.0,0,0,2024,Excelsior
+17,2024-01-19,20:00,Eredivisie,Matchweek 18,Fri,Home,W,3.0,0.0,Heerenveen,2.5,0.4,42.0,4400.0,Stijn van Gassel,4-2-3-1,Edwin van de Graaf,Match Report,,14.0,7.0,14.4,1.0,0,0,2024,Excelsior
+0,2023-08-12,21:00,Eredivisie,Matchweek 1,Sat,Home,L,1.0,2.0,Sparta R'dam,0.9,1.2,53.0,12500.0,Bram van Polen,5-3-2,Joey Kooij,Match Report,,20.0,6.0,16.8,0.0,0,0,2024,Zwolle
+1,2023-08-20,14:30,Eredivisie,Matchweek 2,Sun,Away,L,1.0,3.0,Twente,1.7,1.6,33.0,29000.0,Bram van Polen,3-4-3,Serdar Gözübüyük,Match Report,,8.0,2.0,15.0,0.0,1,1,2024,Zwolle
+2,2023-08-27,12:15,Eredivisie,Matchweek 3,Sun,Home,W,1.0,0.0,Utrecht,1.1,0.4,47.0,14000.0,Bram van Polen,4-4-2,Laurens Gerrets,Match Report,,8.0,1.0,23.2,0.0,1,1,2024,Zwolle
+3,2023-09-02,16:30,Eredivisie,Matchweek 4,Sat,Away,W,2.0,1.0,Almere City,0.9,0.6,54.0,3824.0,Bram van Polen,4-4-2,Marc Nagtegaal,Match Report,,13.0,6.0,22.4,1.0,0,0,2024,Zwolle
+4,2023-09-17,12:15,Eredivisie,Matchweek 5,Sun,Home,D,1.0,1.0,Go Ahead Eag,2.7,1.0,62.0,13750.0,Bram van Polen,4-2-3-1,Rob Dieperink,Match Report,,27.0,11.0,16.0,0.0,0,0,2024,Zwolle
+5,2023-09-24,16:45,Eredivisie,Matchweek 6,Sun,Home,L,0.0,3.0,AZ Alkmaar,0.8,1.0,46.0,14000.0,Bram van Polen,4-2-3-1,Edwin van de Graaf,Match Report,,7.0,3.0,17.5,0.0,0,0,2024,Zwolle
+6,2023-10-01,14:30,Eredivisie,Matchweek 7,Sun,Away,L,1.0,2.0,Heracles Almelo,1.6,2.5,56.0,11624.0,Younes Namli,4-2-3-1,Bas Nijhuis,Match Report,,13.0,5.0,14.1,0.0,0,0,2024,Zwolle
+7,2023-10-08,12:15,Eredivisie,Matchweek 8,Sun,Home,L,0.0,2.0,Feyenoord,0.8,2.2,42.0,14000.0,Younes Namli,4-2-3-1,Sander van der Eijk,Match Report,,4.0,1.0,18.0,0.0,0,0,2024,Zwolle
+8,2023-10-22,14:30,Eredivisie,Matchweek 9,Sun,Away,W,4.0,2.0,Excelsior,1.2,2.1,46.0,4400.0,Bram van Polen,4-2-3-1,Jannick van der Laan,Match Report,,11.0,6.0,15.8,1.0,0,0,2024,Zwolle
+9,2023-10-27,20:00,Eredivisie,Matchweek 10,Fri,Away,D,1.0,1.0,Vitesse,0.2,2.3,37.0,15023.0,Bram van Polen,4-1-4-1,Robin Hensgens,Match Report,,5.0,2.0,20.1,0.0,0,0,2024,Zwolle
+10,2023-11-05,14:30,Eredivisie,Matchweek 11,Sun,Home,W,2.0,0.0,Fortuna Sittard,1.6,0.9,57.0,14000.0,Bram van Polen,4-3-3,Danny Makkelie,Match Report,,15.0,6.0,20.5,0.0,0,0,2024,Zwolle
+11,2023-11-12,12:15,Eredivisie,Matchweek 12,Sun,Away,L,0.0,4.0,PSV Eindhoven,0.3,1.9,34.0,34200.0,Bram van Polen,4-3-3,Ingmar Oostrom,Match Report,,3.0,2.0,11.3,0.0,0,0,2024,Zwolle
+12,2023-11-25,21:00,Eredivisie,Matchweek 13,Sat,Home,L,1.0,2.0,RKC Waalwijk,1.0,1.4,53.0,14000.0,Bram van Polen,4-3-3,Martin van den Kerkhof,Match Report,,17.0,6.0,16.5,0.0,0,0,2024,Zwolle
+13,2023-12-02,18:45,Eredivisie,Matchweek 14,Sat,Away,W,5.0,0.0,Volendam,2.1,0.9,59.0,6800.0,Bram van Polen,4-2-3-1,Dennis Higler,Match Report,,20.0,10.0,18.2,0.0,0,0,2024,Zwolle
+14,2023-12-09,20:00,Eredivisie,Matchweek 15,Sat,Home,L,1.0,3.0,NEC Nijmegen,1.2,1.2,54.0,13324.0,Bram van Polen,4-2-3-1,Pol van Boekel,Match Report,,16.0,3.0,17.9,0.0,0,0,2024,Zwolle
+15,2023-12-17,16:45,Eredivisie,Matchweek 16,Sun,Away,D,2.0,2.0,Ajax,1.8,2.4,36.0,53853.0,Bram van Polen,4-2-3-1,Joey Kooij,Match Report,,11.0,3.0,12.7,0.0,0,0,2024,Zwolle
+16,2024-01-13,20:00,Eredivisie,Matchweek 17,Sat,Home,D,2.0,2.0,Heerenveen,1.7,2.7,55.0,14000.0,Bram van Polen,4-4-2,Danny Makkelie,Match Report,,13.0,5.0,15.6,0.0,0,0,2024,Zwolle
+17,2024-01-20,20:00,Eredivisie,Matchweek 18,Sat,Away,D,2.0,2.0,AZ Alkmaar,1.8,2.9,37.0,17782.0,Bram van Polen,4-2-3-1,Allard Lindhout,Match Report,,8.0,5.0,15.9,0.0,0,0,2024,Zwolle
+0,2023-08-12,18:45,Eredivisie,Matchweek 1,Sat,Home,W,3.0,1.0,RKC Waalwijk,1.5,2.0,47.0,19500.0,Paweł Bochniewicz,4-4-2,Marc Nagtegaal,Match Report,,19.0,9.0,18.5,1.0,0,0,2024,Heerenveen
+1,2023-08-20,12:15,Eredivisie,Matchweek 2,Sun,Away,W,2.0,0.0,Utrecht,0.5,0.9,43.0,19878.0,Paweł Bochniewicz,4-2-3-1,Ingmar Oostrom,Match Report,,12.0,6.0,20.3,0.0,0,0,2024,Heerenveen
+2,2023-08-27,16:45,Eredivisie,Matchweek 3,Sun,Home,L,1.0,3.0,Sparta R'dam,2.2,2.1,55.0,19700.0,Paweł Bochniewicz,4-2-3-1,Allard Lindhout,Match Report,,19.0,5.0,17.8,0.0,0,0,2024,Heerenveen
+3,2023-09-02,18:45,Eredivisie,Matchweek 4,Sat,Away,L,2.0,3.0,Go Ahead Eag,1.3,3.2,52.0,9723.0,Paweł Bochniewicz,4-2-3-1,Jannick van der Laan,Match Report,,13.0,3.0,18.3,0.0,0,0,2024,Heerenveen
+4,2023-09-16,16:30,Eredivisie,Matchweek 5,Sat,Away,L,1.0,6.0,Feyenoord,0.8,3.3,39.0,47500.0,Sven van Beek,4-2-3-1,Jeroen Manschot,Match Report,,7.0,1.0,15.8,0.0,0,0,2024,Heerenveen
+5,2023-09-23,21:00,Eredivisie,Matchweek 6,Sat,Home,L,0.0,3.0,Excelsior,0.8,1.0,59.0,19630.0,Sven van Beek,4-2-3-1,Erwin Blank,Match Report,,9.0,2.0,16.7,1.0,0,0,2024,Heerenveen
+6,2023-09-30,21:00,Eredivisie,Matchweek 7,Sat,Away,L,0.0,1.0,Twente,0.4,0.7,35.0,29500.0,Sven van Beek,4-2-3-1,Rob Dieperink,Match Report,,5.0,1.0,15.6,1.0,0,0,2024,Heerenveen
+7,2023-10-07,16:30,Eredivisie,Matchweek 8,Sat,Home,D,1.0,1.0,NEC Nijmegen,2.1,1.0,49.0,20600.0,Sven van Beek,4-3-3,Marc Nagtegaal,Match Report,,18.0,7.0,16.4,0.0,0,0,2024,Heerenveen
+8,2023-10-21,21:00,Eredivisie,Matchweek 9,Sat,Away,L,0.0,3.0,AZ Alkmaar,0.4,1.4,41.0,17421.0,Sven van Beek,4-3-3,Jochem Kamphuis,Match Report,,9.0,3.0,20.9,1.0,0,0,2024,Heerenveen
+9,2023-10-28,18:45,Eredivisie,Matchweek 10,Sat,Home,W,3.0,0.0,Heracles Almelo,2.6,0.7,48.0,21700.0,Sven van Beek,4-3-3,Martin van den Kerkhof,Match Report,,18.0,9.0,15.6,0.0,0,0,2024,Heerenveen
+10,2023-11-05,16:45,Eredivisie,Matchweek 11,Sun,Away,L,1.0,4.0,Ajax,1.4,2.5,43.0,54288.0,Sven van Beek,4-2-3-1,Sander van der Eijk,Match Report,,12.0,3.0,12.6,0.0,0,0,2024,Heerenveen
+11,2023-11-11,21:00,Eredivisie,Matchweek 12,Sat,Away,W,3.0,1.0,Vitesse,2.3,0.5,60.0,14973.0,Sven van Beek,4-2-3-1,Edwin van de Graaf,Match Report,,18.0,6.0,16.0,0.0,1,1,2024,Heerenveen
+12,2023-11-25,18:45,Eredivisie,Matchweek 13,Sat,Home,W,3.0,0.0,Fortuna Sittard,2.8,0.5,56.0,21000.0,Sven van Beek,4-2-3-1,Jeroen Manschot,Match Report,,14.0,3.0,19.7,0.0,2,2,2024,Heerenveen
+13,2023-12-01,20:00,Eredivisie,Matchweek 14,Fri,Home,W,3.0,0.0,Almere City,3.3,0.9,52.0,20555.0,Sven van Beek,4-2-3-1,Richard Martens,Match Report,,15.0,7.0,12.2,0.0,0,0,2024,Heerenveen
+14,2023-12-07,18:45,Eredivisie,Matchweek 15,Thu,Away,L,0.0,2.0,PSV Eindhoven,0.6,4.6,39.0,34000.0,Sven van Beek,4-3-3,Bas Nijhuis,Match Report,,12.0,1.0,18.9,0.0,0,0,2024,Heerenveen
+15,2023-12-16,21:00,Eredivisie,Matchweek 16,Sat,Home,L,1.0,2.0,Volendam,1.1,0.8,77.0,21800.0,Sven van Beek,4-2-3-1,Allard Lindhout,Match Report,,20.0,7.0,20.0,0.0,0,0,2024,Heerenveen
+16,2024-01-13,20:00,Eredivisie,Matchweek 17,Sat,Away,D,2.0,2.0,Zwolle,2.7,1.7,45.0,14000.0,Sven van Beek,4-2-3-1,Danny Makkelie,Match Report,,19.0,9.0,17.8,0.0,1,1,2024,Heerenveen
+17,2024-01-19,20:00,Eredivisie,Matchweek 18,Fri,Away,L,0.0,3.0,Excelsior,0.4,2.5,58.0,4400.0,Sven van Beek,4-2-3-1,Edwin van de Graaf,Match Report,,9.0,1.0,20.3,0.0,0,0,2024,Heerenveen
+0,2023-08-13,14:30,Eredivisie,Matchweek 1,Sun,Away,D,0.0,0.0,Feyenoord,1.2,1.3,39.0,47500.0,Ivo Pinto,4-3-3,Rob Dieperink,Match Report,,14.0,4.0,23.0,0.0,0,0,2024,Fortuna Sittard
+1,2023-08-19,20:00,Eredivisie,Matchweek 2,Sat,Home,W,2.0,1.0,Almere City,1.8,1.2,48.0,8893.0,Ivo Pinto,4-2-3-1,Jannick van der Laan,Match Report,,21.0,7.0,17.4,0.0,0,0,2024,Fortuna Sittard
+2,2023-08-26,21:00,Eredivisie,Matchweek 3,Sat,Away,D,2.0,2.0,Excelsior,1.2,1.7,55.0,4139.0,Ivo Pinto,4-2-3-1,Robin Hensgens,Match Report,,13.0,5.0,15.3,0.0,0,0,2024,Fortuna Sittard
+3,2023-09-03,14:30,Eredivisie,Matchweek 4,Sun,Home,D,0.0,0.0,Ajax,1.2,0.6,35.0,12138.0,Ivo Pinto,4-2-3-1,Sander van der Eijk,Match Report,,10.0,3.0,19.0,0.0,0,1,2024,Fortuna Sittard
+4,2023-09-16,20:00,Eredivisie,Matchweek 5,Sat,Home,W,3.0,1.0,Volendam,2.6,0.2,58.0,9238.0,Ivo Pinto,4-2-3-1,Jochem Kamphuis,Match Report,,27.0,10.0,19.0,1.0,0,0,2024,Fortuna Sittard
+5,2023-09-22,20:00,Eredivisie,Matchweek 6,Fri,Away,L,0.0,3.0,Go Ahead Eag,1.2,2.3,51.0,9803.0,Ivo Pinto,4-2-3-1,Bas Nijhuis,Match Report,,21.0,2.0,18.6,1.0,0,0,2024,Fortuna Sittard
+6,2023-10-01,16:45,Eredivisie,Matchweek 7,Sun,Away,L,0.0,4.0,AZ Alkmaar,0.6,2.0,44.0,19478.0,Ivo Pinto,4-2-3-1,Serdar Gözübüyük,Match Report,,8.0,1.0,18.9,1.0,0,0,2024,Fortuna Sittard
+7,2023-10-08,14:30,Eredivisie,Matchweek 8,Sun,Home,L,0.0,3.0,Twente,0.1,1.9,42.0,11048.0,Ivo Pinto,4-2-3-1,Martin van den Kerkhof,Match Report,,3.0,1.0,17.1,1.0,0,0,2024,Fortuna Sittard
+8,2023-10-21,18:45,Eredivisie,Matchweek 9,Sat,Away,L,1.0,3.0,PSV Eindhoven,0.8,1.1,27.0,34200.0,Ivo Pinto,4-2-3-1,Rob Dieperink,Match Report,,1.0,0.0,33.0,0.0,1,1,2024,Fortuna Sittard
+9,2023-10-28,21:00,Eredivisie,Matchweek 10,Sat,Home,D,0.0,0.0,Utrecht,1.2,0.9,52.0,10102.0,Ivo Pinto,4-2-3-1,Bas Nijhuis,Match Report,,10.0,4.0,24.0,1.0,0,1,2024,Fortuna Sittard
+10,2023-11-05,14:30,Eredivisie,Matchweek 11,Sun,Away,L,0.0,2.0,Zwolle,0.9,1.6,43.0,14000.0,Ivo Pinto,4-2-3-1,Danny Makkelie,Match Report,,8.0,2.0,20.8,1.0,0,0,2024,Fortuna Sittard
+11,2023-11-10,20:00,Eredivisie,Matchweek 12,Fri,Home,W,4.0,1.0,Heracles Almelo,1.4,1.0,43.0,10196.0,Ivo Pinto,3-1-4-2,Allard Lindhout,Match Report,,15.0,8.0,17.3,1.0,0,0,2024,Fortuna Sittard
+12,2023-11-25,18:45,Eredivisie,Matchweek 13,Sat,Away,L,0.0,3.0,Heerenveen,0.5,2.8,44.0,21000.0,Ivo Pinto,3-4-3,Jeroen Manschot,Match Report,,10.0,4.0,20.0,1.0,0,0,2024,Fortuna Sittard
+13,2023-12-02,20:00,Eredivisie,Matchweek 14,Sat,Home,W,3.0,1.0,Vitesse,2.0,1.0,47.0,10009.0,Ivo Pinto,4-2-3-1,Alex Bos,Match Report,,14.0,10.0,16.3,0.0,0,1,2024,Fortuna Sittard
+14,2023-12-10,14:30,Eredivisie,Matchweek 15,Sun,Home,W,1.0,0.0,RKC Waalwijk,1.4,0.8,47.0,10397.0,Ivo Pinto,4-2-3-1,Joey Kooij,Match Report,,11.0,3.0,18.0,1.0,0,0,2024,Fortuna Sittard
+15,2023-12-15,20:00,Eredivisie,Matchweek 16,Fri,Away,L,1.0,4.0,NEC Nijmegen,0.4,2.1,43.0,12500.0,Ivo Pinto,4-2-3-1,Edwin van de Graaf,Match Report,,11.0,4.0,19.8,0.0,0,0,2024,Fortuna Sittard
+16,2024-01-13,16:30,Eredivisie,Matchweek 17,Sat,Home,L,0.0,2.0,Sparta R'dam,3.4,1.4,48.0,9800.0,Ivo Pinto,4-2-3-1,Erwin Blank,Match Report,,24.0,6.0,16.3,0.0,0,1,2024,Fortuna Sittard
+0,2023-08-13,16:45,Eredivisie,Matchweek 1,Sun,Home,L,1.0,4.0,Twente,0.5,1.7,34.0,3616.0,Damian van Bruggen,4-3-3,Jochem Kamphuis,Match Report,,12.0,4.0,21.2,1.0,0,0,2024,Almere City
+1,2023-08-19,20:00,Eredivisie,Matchweek 2,Sat,Away,L,1.0,2.0,Fortuna Sittard,1.2,1.8,52.0,8893.0,Álvaro Peña,4-2-3-1,Jannick van der Laan,Match Report,,8.0,5.0,14.6,0.0,0,0,2024,Almere City
+2,2023-08-27,14:30,Eredivisie,Matchweek 3,Sun,Away,L,1.0,6.0,Feyenoord,1.3,4.4,37.0,47500.0,Damian van Bruggen,4-2-3-1,Bas Nijhuis,Match Report,,6.0,1.0,24.4,0.0,0,0,2024,Almere City
+3,2023-09-02,16:30,Eredivisie,Matchweek 4,Sat,Home,L,1.0,2.0,Zwolle,0.6,0.9,46.0,3824.0,Damian van Bruggen,4-2-3-1,Marc Nagtegaal,Match Report,,10.0,3.0,18.9,0.0,0,0,2024,Almere City
+4,2023-09-17,14:30,Eredivisie,Matchweek 5,Sun,Away,D,0.0,0.0,Excelsior,1.7,0.8,51.0,4400.0,Damian van Bruggen,4-4-2,Martin van den Kerkhof,Match Report,,15.0,3.0,18.7,0.0,0,0,2024,Almere City
+5,2023-09-23,20:00,Eredivisie,Matchweek 6,Sat,Home,L,0.0,4.0,PSV Eindhoven,0.4,3.6,40.0,4332.0,Damian van Bruggen,5-3-2,Alex Bos,Match Report,,9.0,2.0,20.5,0.0,0,0,2024,Almere City
+6,2023-09-30,18:45,Eredivisie,Matchweek 7,Sat,Away,W,2.0,0.0,Utrecht,2.0,1.2,47.0,22177.0,Damian van Bruggen,5-3-2,Edwin van de Graaf,Match Report,,17.0,5.0,17.5,0.0,0,0,2024,Almere City
+7,2023-10-07,18:45,Eredivisie,Matchweek 8,Sat,Home,W,1.0,0.0,RKC Waalwijk,1.9,0.6,43.0,4228.0,Damian van Bruggen,5-3-2,Jeroen Manschot,Match Report,,18.0,6.0,16.2,1.0,0,0,2024,Almere City
+8,2023-10-21,20:00,Eredivisie,Matchweek 9,Sat,Away,D,1.0,1.0,NEC Nijmegen,0.7,1.2,44.0,12500.0,Damian van Bruggen,5-3-2,Danny Makkelie,Match Report,,14.0,2.0,18.6,0.0,0,0,2024,Almere City
+9,2023-10-28,20:00,Eredivisie,Matchweek 10,Sat,Home,D,0.0,0.0,Go Ahead Eag,1.1,0.6,51.0,4222.0,Damian van Bruggen,5-3-2,Serdar Gözübüyük,Match Report,,11.0,1.0,15.0,0.0,0,0,2024,Almere City
+10,2023-11-05,16:45,Eredivisie,Matchweek 11,Sun,Away,W,2.0,1.0,Sparta R'dam,1.3,1.4,38.0,10132.0,Damian van Bruggen,5-3-2,Allard Lindhout,Match Report,,11.0,4.0,17.1,0.0,0,0,2024,Almere City
+11,2023-11-12,14:30,Eredivisie,Matchweek 12,Sun,Home,D,2.0,2.0,Ajax,2.6,2.5,37.0,4222.0,Damian van Bruggen,5-3-2,Bas Nijhuis,Match Report,,12.0,4.0,18.0,0.0,1,1,2024,Almere City
+12,2023-11-26,12:15,Eredivisie,Matchweek 13,Sun,Home,L,0.0,5.0,Heracles Almelo,1.1,3.2,62.0,4222.0,Damian van Bruggen,3-4-1-2,Jannick van der Laan,Match Report,,17.0,3.0,16.1,0.0,0,0,2024,Almere City
+13,2023-12-01,20:00,Eredivisie,Matchweek 14,Fri,Away,L,0.0,3.0,Heerenveen,0.9,3.3,48.0,20555.0,Damian van Bruggen,3-4-1-2,Richard Martens,Match Report,,13.0,2.0,15.9,0.0,0,0,2024,Almere City
+14,2023-12-09,21:00,Eredivisie,Matchweek 15,Sat,Away,L,1.0,4.0,AZ Alkmaar,0.6,1.7,39.0,18429.0,Damian van Bruggen,4-4-2,Sander van der Eijk,Match Report,,12.0,6.0,17.5,1.0,0,0,2024,Almere City
+15,2023-12-17,12:15,Eredivisie,Matchweek 16,Sun,Home,W,5.0,0.0,Vitesse,1.8,0.4,44.0,4222.0,Sherel Floranus,3-4-1-2,Danny Makkelie,Match Report,,11.0,6.0,23.0,1.0,1,1,2024,Almere City
+16,2024-01-14,12:15,Eredivisie,Matchweek 17,Sun,Away,W,1.0,0.0,Volendam,1.7,0.8,38.0,6738.0,Sherel Floranus,3-4-1-2,Ingmar Oostrom,Match Report,,10.0,2.0,13.6,1.0,0,0,2024,Almere City
+0,2023-08-12,20:00,Eredivisie,Matchweek 1,Sat,Away,L,1.0,4.0,Ajax,0.9,3.4,31.0,54029.0,Justin Hoogma,4-2-3-1,Jeroen Manschot,Match Report,,7.0,2.0,16.2,0.0,0,0,2024,Heracles Almelo
+1,2023-08-18,20:00,Eredivisie,Matchweek 2,Fri,Home,W,2.0,1.0,NEC Nijmegen,1.1,1.1,46.0,12080.0,Justin Hoogma,4-2-3-1,Erwin Blank,Match Report,,16.0,7.0,21.7,0.0,0,0,2024,Heracles Almelo
+2,2023-09-02,21:00,Eredivisie,Matchweek 4,Sat,Home,W,3.0,1.0,Excelsior,1.5,0.5,63.0,11185.0,Justin Hoogma,4-3-3,Joey Kooij,Match Report,,15.0,5.0,19.1,0.0,0,0,2024,Heracles Almelo
+3,2023-09-16,21:00,Eredivisie,Matchweek 5,Sat,Home,L,1.0,3.0,Utrecht,0.9,1.8,57.0,11831.0,Justin Hoogma,4-3-3,Sander van der Eijk,Match Report,,11.0,1.0,19.3,1.0,0,0,2024,Heracles Almelo
+4,2023-09-23,16:30,Eredivisie,Matchweek 6,Sat,Away,D,2.0,2.0,Volendam,1.6,2.0,50.0,6600.0,Justin Hoogma,4-3-3,Ingmar Oostrom,Match Report,,15.0,5.0,14.2,0.0,0,0,2024,Heracles Almelo
+5,2023-09-28,20:00,Eredivisie,Matchweek 3,Thu,Away,D,1.0,1.0,AZ Alkmaar,0.8,2.7,39.0,16276.0,Justin Hoogma,4-2-3-1,Danny Makkelie,Match Report,,4.0,2.0,20.6,0.0,0,0,2024,Heracles Almelo
+6,2023-10-01,14:30,Eredivisie,Matchweek 7,Sun,Home,W,2.0,1.0,Zwolle,2.5,1.6,44.0,11624.0,Justin Hoogma,4-2-3-1,Bas Nijhuis,Match Report,,12.0,5.0,15.9,0.0,1,1,2024,Heracles Almelo
+7,2023-10-07,20:00,Eredivisie,Matchweek 8,Sat,Away,L,0.0,4.0,Go Ahead Eag,1.8,1.7,62.0,9833.0,Justin Hoogma,4-2-3-1,Alex Bos,Match Report,,17.0,8.0,19.6,1.0,0,0,2024,Heracles Almelo
+8,2023-10-22,14:30,Eredivisie,Matchweek 9,Sun,Home,D,2.0,2.0,Twente,1.6,2.2,45.0,12080.0,Justin Hoogma,4-2-3-1,Pol van Boekel,Match Report,,16.0,3.0,18.6,0.0,0,0,2024,Heracles Almelo
+9,2023-10-28,18:45,Eredivisie,Matchweek 10,Sat,Away,L,0.0,3.0,Heerenveen,0.7,2.6,52.0,21700.0,Justin Hoogma,4-2-3-1,Martin van den Kerkhof,Match Report,,9.0,3.0,18.5,0.0,0,0,2024,Heracles Almelo
+10,2023-11-04,16:30,Eredivisie,Matchweek 11,Sat,Home,L,0.0,6.0,PSV Eindhoven,0.8,5.0,37.0,11867.0,Justin Hoogma,4-2-3-1,Joey Kooij,Match Report,,7.0,1.0,15.2,0.0,0,0,2024,Heracles Almelo
+11,2023-11-10,20:00,Eredivisie,Matchweek 12,Fri,Away,L,1.0,4.0,Fortuna Sittard,1.0,1.4,57.0,10196.0,Thomas Bruns,4-2-3-1,Allard Lindhout,Match Report,,7.0,3.0,19.1,0.0,0,0,2024,Heracles Almelo
+12,2023-11-26,12:15,Eredivisie,Matchweek 13,Sun,Away,W,5.0,0.0,Almere City,3.2,1.1,38.0,4222.0,Sven Sonnenberg,4-3-3,Jannick van der Laan,Match Report,,17.0,6.0,17.8,1.0,0,0,2024,Heracles Almelo
+13,2023-12-02,21:00,Eredivisie,Matchweek 14,Sat,Home,L,0.0,1.0,Sparta R'dam,1.1,1.0,52.0,11645.0,Justin Hoogma,4-3-3,Edwin van de Graaf,Match Report,,13.0,3.0,18.3,0.0,0,0,2024,Heracles Almelo
+14,2023-12-10,16:45,Eredivisie,Matchweek 15,Sun,Away,L,0.0,2.0,Vitesse,1.9,1.4,51.0,17061.0,Justin Hoogma,4-1-4-1,Serdar Gözübüyük,Match Report,,11.0,2.0,16.8,1.0,0,1,2024,Heracles Almelo
+15,2023-12-17,14:30,Eredivisie,Matchweek 16,Sun,Home,L,0.0,4.0,Feyenoord,0.1,3.0,34.0,12080.0,Justin Hoogma,4-4-2,Jeroen Manschot,Match Report,,2.0,0.0,20.0,0.0,0,0,2024,Heracles Almelo
+16,2024-01-12,20:00,Eredivisie,Matchweek 17,Fri,Away,W,2.0,1.0,RKC Waalwijk,1.3,1.9,46.0,6412.0,Justin Hoogma,5-4-1,Rob Dieperink,Match Report,,8.0,1.0,15.8,0.0,1,1,2024,Heracles Almelo
+17,2024-01-20,18:45,Eredivisie,Matchweek 18,Sat,Home,D,1.0,1.0,Volendam,1.8,0.7,65.0,12080.0,Justin Hoogma,5-4-1,Jannick van der Laan,Match Report,,15.0,7.0,14.1,0.0,0,0,2024,Heracles Almelo
+0,2023-08-12,16:30,Eredivisie,Matchweek 1,Sat,Away,L,0.0,2.0,PSV Eindhoven,0.7,2.6,33.0,32486.0,Mike van der Hoorn,4-3-3,Serdar Gözübüyük,Match Report,,7.0,1.0,14.4,0.0,0,0,2024,Utrecht
+1,2023-08-20,12:15,Eredivisie,Matchweek 2,Sun,Home,L,0.0,2.0,Heerenveen,0.9,0.5,57.0,19878.0,Mike van der Hoorn,4-2-3-1,Ingmar Oostrom,Match Report,,12.0,5.0,16.4,0.0,0,0,2024,Utrecht
+2,2023-08-27,12:15,Eredivisie,Matchweek 3,Sun,Away,L,0.0,1.0,Zwolle,0.4,1.1,53.0,14000.0,Nick Viergever,4-3-3,Laurens Gerrets,Match Report,,10.0,1.0,19.5,0.0,0,0,2024,Utrecht
+3,2023-09-03,12:15,Eredivisie,Matchweek 4,Sun,Home,L,1.0,5.0,Feyenoord,0.6,4.5,45.0,20366.0,Mike van der Hoorn,4-3-3,Pol van Boekel,Match Report,,5.0,1.0,16.2,0.0,0,0,2024,Utrecht
+4,2023-09-16,21:00,Eredivisie,Matchweek 5,Sat,Away,W,3.0,1.0,Heracles Almelo,1.8,0.9,43.0,11831.0,Mark van der Maarel,4-3-3,Sander van der Eijk,Match Report,,11.0,7.0,15.6,1.0,0,0,2024,Utrecht
+5,2023-09-23,18:45,Eredivisie,Matchweek 6,Sat,Away,L,0.0,3.0,NEC Nijmegen,1.5,2.2,57.0,12500.0,Mark van der Maarel,4-3-3,Dennis Higler,Match Report,,17.0,3.0,14.4,0.0,0,0,2024,Utrecht
+6,2023-09-30,18:45,Eredivisie,Matchweek 7,Sat,Home,L,0.0,2.0,Almere City,1.2,2.0,53.0,22177.0,Nick Viergever,4-3-3,Edwin van de Graaf,Match Report,,11.0,2.0,17.5,0.0,0,0,2024,Utrecht
+7,2023-10-06,20:00,Eredivisie,Matchweek 8,Fri,Away,L,0.0,1.0,Volendam,0.9,2.6,35.0,6525.0,Nick Viergever,4-3-3,Serdar Gözübüyük,Match Report,,7.0,3.0,18.6,1.0,0,0,2024,Utrecht
+8,2023-10-22,12:15,Eredivisie,Matchweek 9,Sun,Home,W,4.0,3.0,Ajax,2.0,1.5,41.0,22198.0,Mike van der Hoorn,4-2-3-1,Dennis Higler,Match Report,,14.0,8.0,15.7,0.0,0,0,2024,Utrecht
+9,2023-10-28,21:00,Eredivisie,Matchweek 10,Sat,Away,D,0.0,0.0,Fortuna Sittard,0.9,1.2,48.0,10102.0,Mike van der Hoorn,4-2-3-1,Bas Nijhuis,Match Report,,12.0,2.0,17.5,0.0,0,0,2024,Utrecht
+10,2023-11-05,12:15,Eredivisie,Matchweek 11,Sun,Home,D,1.0,1.0,Twente,0.8,1.2,45.0,17491.0,Mike van der Hoorn,4-2-3-1,Serdar Gözübüyük,Match Report,,14.0,6.0,20.2,0.0,0,0,2024,Utrecht
+11,2023-11-12,20:00,Eredivisie,Matchweek 12,Sun,Home,D,2.0,2.0,Excelsior,0.6,1.9,59.0,20235.0,Mike van der Hoorn,4-2-3-1,Marc Nagtegaal,Match Report,,14.0,6.0,19.1,0.0,0,0,2024,Utrecht
+12,2023-11-26,16:45,Eredivisie,Matchweek 13,Sun,Away,W,2.0,1.0,Sparta R'dam,1.2,2.4,40.0,10030.0,Vasilios Barkas,4-2-3-1,Joey Kooij,Match Report,,7.0,2.0,13.6,0.0,0,0,2024,Utrecht
+13,2023-12-03,16:45,Eredivisie,Matchweek 14,Sun,Home,D,1.0,1.0,AZ Alkmaar,2.1,1.2,47.0,18267.0,Nick Viergever,4-2-3-1,Erwin Blank,Match Report,,15.0,4.0,18.4,0.0,0,0,2024,Utrecht
+14,2023-12-10,12:15,Eredivisie,Matchweek 15,Sun,Away,W,2.0,0.0,Go Ahead Eag,0.8,1.2,39.0,9873.0,Nick Viergever,4-2-3-1,Allard Lindhout,Match Report,,12.0,3.0,18.7,1.0,0,0,2024,Utrecht
+15,2023-12-16,16:30,Eredivisie,Matchweek 16,Sat,Home,D,1.0,1.0,RKC Waalwijk,1.8,1.9,57.0,22033.0,Nick Viergever,4-2-3-1,Serdar Gözübüyük,Match Report,,17.0,6.0,14.9,0.0,0,0,2024,Utrecht
+16,2024-01-14,14:30,Eredivisie,Matchweek 17,Sun,Away,D,0.0,0.0,Vitesse,1.6,0.9,59.0,14207.0,Nick Viergever,4-2-3-1,Richard Martens,Match Report,,20.0,4.0,15.9,2.0,0,0,2024,Utrecht
+0,2023-08-12,18:45,Eredivisie,Matchweek 1,Sat,Away,L,1.0,3.0,Heerenveen,2.0,1.5,53.0,19500.0,Michiel Kramer,4-4-2,Marc Nagtegaal,Match Report,,12.0,3.0,18.8,0.0,1,1,2024,RKC Waalwijk
+1,2023-08-20,16:45,Eredivisie,Matchweek 2,Sun,Home,L,1.0,3.0,AZ Alkmaar,2.0,1.5,45.0,6722.0,Michiel Kramer,4-4-2,Alex Bos,Match Report,,6.0,4.0,14.9,0.0,1,1,2024,RKC Waalwijk
+2,2023-08-26,18:45,Eredivisie,Matchweek 3,Sat,Away,L,0.0,3.0,NEC Nijmegen,1.3,1.9,59.0,12319.0,Michiel Kramer,4-4-2,Jochem Kamphuis,Match Report,,10.0,1.0,15.3,0.0,0,0,2024,RKC Waalwijk
+3,2023-09-02,20:00,Eredivisie,Matchweek 4,Sat,Home,L,0.0,4.0,PSV Eindhoven,0.9,2.1,40.0,6609.0,Michiel Kramer,4-4-1-1,Dennis Higler,Match Report,,10.0,3.0,18.9,1.0,0,0,2024,RKC Waalwijk
+4,2023-09-16,18:45,Eredivisie,Matchweek 5,Sat,Away,W,2.0,0.0,Vitesse,1.8,0.7,44.0,16362.0,Michiel Kramer,4-2-3-1,Allard Lindhout,Match Report,,18.0,9.0,16.4,0.0,0,0,2024,RKC Waalwijk
+5,2023-09-24,16:45,Eredivisie,Matchweek 6,Sun,Home,W,1.0,0.0,Twente,0.4,0.5,47.0,5512.0,Michiel Kramer,4-2-3-1,Joey Kooij,Match Report,,9.0,3.0,18.1,0.0,0,0,2024,RKC Waalwijk
+6,2023-10-07,18:45,Eredivisie,Matchweek 8,Sat,Away,L,0.0,1.0,Almere City,0.6,1.9,57.0,4228.0,Michiel Kramer,4-2-3-1,Jeroen Manschot,Match Report,,13.0,4.0,18.4,1.0,0,0,2024,RKC Waalwijk
+7,2023-10-21,18:45,Eredivisie,Matchweek 9,Sat,Home,W,2.0,1.0,Volendam,0.6,1.4,47.0,6188.0,Michiel Kramer,3-4-1-2,Edwin van de Graaf,Match Report,,10.0,4.0,19.6,0.0,0,0,2024,RKC Waalwijk
+8,2023-10-28,20:00,Eredivisie,Matchweek 10,Sat,Away,L,0.0,2.0,Sparta R'dam,0.8,1.8,48.0,10341.0,Michiel Kramer,4-1-4-1,Sander van der Eijk,Match Report,,11.0,3.0,15.3,0.0,0,0,2024,RKC Waalwijk
+9,2023-11-04,18:45,Eredivisie,Matchweek 11,Sat,Home,L,1.0,2.0,Feyenoord,0.5,4.2,25.0,7168.0,Michiel Kramer,4-1-4-1,Pol van Boekel,Match Report,,5.0,1.0,19.5,0.0,0,0,2024,RKC Waalwijk
+10,2023-11-11,18:45,Eredivisie,Matchweek 12,Sat,Home,L,0.0,1.0,Go Ahead Eag,1.8,0.8,65.0,6157.0,Michiel Kramer,4-3-3,Jeroen Manschot,Match Report,,19.0,5.0,15.1,1.0,0,0,2024,RKC Waalwijk
+11,2023-11-25,21:00,Eredivisie,Matchweek 13,Sat,Away,W,2.0,1.0,Zwolle,1.4,1.0,47.0,14000.0,Michiel Kramer,4-3-3,Martin van den Kerkhof,Match Report,,13.0,4.0,17.2,2.0,0,0,2024,RKC Waalwijk
+12,2023-12-02,20:00,Eredivisie,Matchweek 14,Sat,Home,D,2.0,2.0,Excelsior,1.8,0.9,51.0,5869.0,Michiel Kramer,4-3-3,Bas Nijhuis,Match Report,,17.0,8.0,18.1,1.0,0,0,2024,RKC Waalwijk
+13,2023-12-06,20:00,Eredivisie,Matchweek 7,Wed,Home,L,2.0,3.0,Ajax,0.9,1.4,40.0,7159.0,Michiel Kramer,4-2-3-1,Pol van Boekel,Match Report,,10.0,2.0,14.6,0.0,0,0,2024,RKC Waalwijk
+14,2023-12-10,14:30,Eredivisie,Matchweek 15,Sun,Away,L,0.0,1.0,Fortuna Sittard,0.8,1.4,53.0,10397.0,Michiel Kramer,4-2-3-1,Joey Kooij,Match Report,,13.0,2.0,17.4,1.0,0,0,2024,RKC Waalwijk
+15,2023-12-16,16:30,Eredivisie,Matchweek 16,Sat,Away,D,1.0,1.0,Utrecht,1.9,1.8,43.0,22033.0,Michiel Kramer,4-2-3-1,Serdar Gözübüyük,Match Report,,11.0,3.0,22.9,2.0,1,1,2024,RKC Waalwijk
+16,2024-01-12,20:00,Eredivisie,Matchweek 17,Fri,Home,L,1.0,2.0,Heracles Almelo,1.9,1.3,54.0,6412.0,Michiel Kramer,4-2-3-1,Rob Dieperink,Match Report,,17.0,7.0,17.2,1.0,1,1,2024,RKC Waalwijk
+0,2023-08-11,20:00,Eredivisie,Matchweek 1,Fri,Home,L,1.0,2.0,Vitesse,0.7,1.5,29.0,6382.0,Xavier Mbuyamba,4-2-3-1,Dennis Higler,Match Report,,4.0,4.0,15.5,0.0,0,0,2024,Volendam
+1,2023-08-19,21:00,Eredivisie,Matchweek 2,Sat,Away,L,1.0,4.0,Go Ahead Eag,1.4,0.6,58.0,9376.0,Xavier Mbuyamba,4-2-3-1,Edwin van de Graaf,Match Report,,19.0,5.0,16.0,0.0,0,0,2024,Volendam
+2,2023-09-03,14:30,Eredivisie,Matchweek 4,Sun,Home,L,0.0,2.0,Twente,0.5,1.5,36.0,6600.0,Damon Mirani,4-3-3,Richard Martens,Match Report,,7.0,2.0,17.2,0.0,0,0,2024,Volendam
+3,2023-09-16,20:00,Eredivisie,Matchweek 5,Sat,Away,L,1.0,3.0,Fortuna Sittard,0.2,2.6,42.0,9238.0,Damon Mirani,4-2-3-1,Jochem Kamphuis,Match Report,,7.0,2.0,21.9,0.0,0,0,2024,Volendam
+4,2023-09-23,16:30,Eredivisie,Matchweek 6,Sat,Home,D,2.0,2.0,Heracles Almelo,2.0,1.6,50.0,6600.0,Damon Mirani,4-2-3-1,Ingmar Oostrom,Match Report,,16.0,6.0,14.5,1.0,0,0,2024,Volendam
+5,2023-09-30,18:45,Eredivisie,Matchweek 7,Sat,Away,L,1.0,3.0,PSV Eindhoven,0.8,4.2,25.0,34000.0,Damon Mirani,5-4-1,Allard Lindhout,Match Report,,1.0,0.0,25.7,0.0,1,1,2024,Volendam
+6,2023-10-06,20:00,Eredivisie,Matchweek 8,Fri,Home,W,1.0,0.0,Utrecht,2.6,0.9,65.0,6525.0,Damon Mirani,4-3-3,Serdar Gözübüyük,Match Report,,15.0,5.0,16.0,1.0,0,0,2024,Volendam
+7,2023-10-21,18:45,Eredivisie,Matchweek 9,Sat,Away,L,1.0,2.0,RKC Waalwijk,1.4,0.6,53.0,6188.0,Xavier Mbuyamba,4-1-4-1,Edwin van de Graaf,Match Report,,11.0,3.0,16.2,1.0,0,0,2024,Volendam
+8,2023-10-29,14:30,Eredivisie,Matchweek 10,Sun,Home,W,3.0,1.0,Excelsior,4.0,1.6,50.0,6500.0,Damon Mirani,4-3-3,Alex Bos,Match Report,,20.0,11.0,12.4,1.0,0,0,2024,Volendam
+9,2023-11-02,20:00,Eredivisie,Matchweek 3,Thu,Away,L,0.0,2.0,Ajax,0.9,3.4,33.0,54177.0,Damon Mirani,4-2-3-1,Martin van den Kerkhof,Match Report,,7.0,3.0,15.9,0.0,0,0,2024,Volendam
+10,2023-11-05,14:30,Eredivisie,Matchweek 11,Sun,Away,D,3.0,3.0,NEC Nijmegen,1.6,2.0,61.0,12500.0,Damon Mirani,4-2-3-1,Jochem Kamphuis,Match Report,,15.0,7.0,15.8,1.0,0,0,2024,Volendam
+11,2023-11-12,14:30,Eredivisie,Matchweek 12,Sun,Home,L,1.0,4.0,Sparta R'dam,0.9,2.0,61.0,6784.0,Damon Mirani,4-2-3-1,Richard Martens,Match Report,,17.0,1.0,18.3,0.0,0,0,2024,Volendam
+12,2023-11-26,14:30,Eredivisie,Matchweek 13,Sun,Away,L,0.0,3.0,AZ Alkmaar,0.4,3.6,39.0,18261.0,Damon Mirani,4-2-3-1,Bas Nijhuis,Match Report,,7.0,1.0,18.2,0.0,0,0,2024,Volendam
+13,2023-12-02,18:45,Eredivisie,Matchweek 14,Sat,Home,L,0.0,5.0,Zwolle,0.9,2.1,41.0,6800.0,Damon Mirani,4-3-3,Dennis Higler,Match Report,,9.0,3.0,19.8,0.0,0,0,2024,Volendam
+14,2023-12-07,21:00,Eredivisie,Matchweek 15,Thu,Away,L,1.0,3.0,Feyenoord,0.5,3.4,17.0,40000.0,Xavier Mbuyamba,4-3-3,Martin van den Kerkhof,Match Report,,2.0,2.0,14.8,0.0,0,0,2024,Volendam
+15,2023-12-16,21:00,Eredivisie,Matchweek 16,Sat,Away,W,2.0,1.0,Heerenveen,0.8,1.1,23.0,21800.0,Xavier Mbuyamba,3-5-1-1,Allard Lindhout,Match Report,,3.0,2.0,12.3,0.0,0,0,2024,Volendam
+16,2024-01-14,12:15,Eredivisie,Matchweek 17,Sun,Home,L,0.0,1.0,Almere City,0.8,1.7,62.0,6738.0,Xavier Mbuyamba,3-5-1-1,Ingmar Oostrom,Match Report,,5.0,2.0,14.1,0.0,0,0,2024,Volendam
+17,2024-01-20,18:45,Eredivisie,Matchweek 18,Sat,Away,D,1.0,1.0,Heracles Almelo,0.7,1.8,35.0,12080.0,Damon Mirani,3-5-1-1,Jannick van der Laan,Match Report,,11.0,2.0,17.6,0.0,0,0,2024,Volendam
+0,2023-08-11,20:00,Eredivisie,Matchweek 1,Fri,Away,W,2.0,1.0,Volendam,1.5,0.7,71.0,6382.0,Nicolas Isimat-Mirin,4-2-3-1,Dennis Higler,Match Report,,13.0,9.0,20.0,2.0,0,0,2024,Vitesse
+1,2023-08-19,18:45,Eredivisie,Matchweek 2,Sat,Home,L,1.0,3.0,PSV Eindhoven,2.1,2.3,35.0,14876.0,Marco van Ginkel,4-2-3-1,Bas Nijhuis,Match Report,,12.0,1.0,14.5,0.0,0,0,2024,Vitesse
+2,2023-09-03,16:45,Eredivisie,Matchweek 4,Sun,Home,L,0.0,2.0,AZ Alkmaar,0.2,2.3,50.0,15734.0,Marco van Ginkel,4-2-3-1,Jeroen Manschot,Match Report,,4.0,2.0,17.5,0.0,0,0,2024,Vitesse
+3,2023-09-16,18:45,Eredivisie,Matchweek 5,Sat,Home,L,0.0,2.0,RKC Waalwijk,0.7,1.8,56.0,16362.0,Marco van Ginkel,4-2-3-1,Allard Lindhout,Match Report,,16.0,2.0,17.1,0.0,0,0,2024,Vitesse
+4,2023-09-24,12:15,Eredivisie,Matchweek 6,Sun,Away,L,0.0,1.0,Sparta R'dam,0.3,1.5,51.0,10320.0,Marco van Ginkel,4-2-3-1,Richard Martens,Match Report,,6.0,0.0,16.3,0.0,0,0,2024,Vitesse
+5,2023-09-27,20:00,Eredivisie,Matchweek 3,Wed,Away,L,0.0,1.0,Twente,1.2,1.8,35.0,29000.0,Marco van Ginkel,4-2-3-1,Jannick van der Laan,Match Report,,10.0,3.0,16.3,0.0,0,0,2024,Vitesse
+6,2023-10-01,12:15,Eredivisie,Matchweek 7,Sun,Away,W,3.0,1.0,NEC Nijmegen,1.2,1.1,37.0,12500.0,Marco van Ginkel,4-3-3,Sander van der Eijk,Match Report,,11.0,5.0,20.4,1.0,0,0,2024,Vitesse
+7,2023-10-07,21:00,Eredivisie,Matchweek 8,Sat,Home,D,0.0,0.0,Excelsior,1.4,1.0,42.0,13887.0,Marco van Ginkel,4-3-3,Joey Kooij,Match Report,,21.0,7.0,17.1,0.0,0,0,2024,Vitesse
+8,2023-10-21,21:00,Eredivisie,Matchweek 9,Sat,Away,L,0.0,4.0,Feyenoord,0.1,3.0,43.0,47500.0,Marco van Ginkel,4-2-3-1,Bas Nijhuis,Match Report,,4.0,1.0,25.3,0.0,0,0,2024,Vitesse
+9,2023-10-27,20:00,Eredivisie,Matchweek 10,Fri,Home,D,1.0,1.0,Zwolle,2.3,0.2,63.0,15023.0,Marco van Ginkel,4-2-3-1,Robin Hensgens,Match Report,,30.0,11.0,15.2,1.0,0,0,2024,Vitesse
+10,2023-11-04,21:00,Eredivisie,Matchweek 11,Sat,Away,L,1.0,5.0,Go Ahead Eag,0.6,3.2,60.0,9848.0,Marco van Ginkel,4-2-3-1,Erwin Blank,Match Report,,13.0,3.0,17.9,0.0,0,0,2024,Vitesse
+11,2023-11-11,21:00,Eredivisie,Matchweek 12,Sat,Home,L,1.0,3.0,Heerenveen,0.5,2.3,40.0,14973.0,Marco van Ginkel,5-3-2,Edwin van de Graaf,Match Report,,9.0,5.0,17.7,0.0,0,0,2024,Vitesse
+12,2023-11-25,21:00,Eredivisie,Matchweek 13,Sat,Away,L,0.0,5.0,Ajax,0.5,3.0,37.0,48250.0,Nicolas Isimat-Mirin,4-3-3,Dennis Higler,Match Report,,9.0,4.0,19.6,0.0,0,0,2024,Vitesse
+13,2023-12-02,20:00,Eredivisie,Matchweek 14,Sat,Away,L,1.0,3.0,Fortuna Sittard,1.0,2.0,53.0,10009.0,Marco van Ginkel,4-3-3,Alex Bos,Match Report,,8.0,3.0,19.8,0.0,0,0,2024,Vitesse
+14,2023-12-10,16:45,Eredivisie,Matchweek 15,Sun,Home,W,2.0,0.0,Heracles Almelo,1.4,1.9,49.0,17061.0,Marco van Ginkel,4-2-3-1,Serdar Gözübüyük,Match Report,,12.0,2.0,15.1,0.0,0,0,2024,Vitesse
+15,2023-12-17,12:15,Eredivisie,Matchweek 16,Sun,Away,L,0.0,5.0,Almere City,0.4,1.8,56.0,4222.0,Marco van Ginkel,4-2-3-1,Danny Makkelie,Match Report,,7.0,4.0,18.9,0.0,0,0,2024,Vitesse
+16,2024-01-14,14:30,Eredivisie,Matchweek 17,Sun,Home,D,0.0,0.0,Utrecht,0.9,1.6,41.0,14207.0,Marco van Ginkel,4-2-3-1,Richard Martens,Match Report,,12.0,6.0,20.0,0.0,0,0,2024,Vitesse
